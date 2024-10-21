@@ -60,12 +60,12 @@ enableEmoji = true
 [languages]
   [languages.en]
     title = "Brock Bushong"
-    keywords = "music"
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-    readOtherPosts = "Read other posts"
 
   [languages.en.params]
     subtitle  = "Brock Bushong Official Website"
+keywords = "music"
+readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
       logoText = "Brock Bushong"
