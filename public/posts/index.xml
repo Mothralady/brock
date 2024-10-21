@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Brock Bushong</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Brock Bushong</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sun, 18 Aug 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Test</title>
+            <link>http://localhost:1313/posts/test/</link>
+            <pubDate>Sun, 18 Aug 2024 00:00:00 +0000</pubDate>
+            
+            <guid>http://localhost:1313/posts/test/</guid>
+            <description>This is a test
+Heading 1 Heading 2 Heading 3 4 5 6 THIS IS BOLD
+ITALIC
+==highlight==
+strike</description>
+            <content type="html"><![CDATA[<p>This is a test</p>
+<h1 id="heading-1">Heading 1</h1>
+<h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<h4 id="4">4</h4>
+<h5 id="5">5</h5>
+<h6 id="6">6</h6>
+<p><strong>THIS IS BOLD</strong></p>
+<p><em>ITALIC</em></p>
+<p>==highlight==</p>
+<p><del>strike</del></p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
