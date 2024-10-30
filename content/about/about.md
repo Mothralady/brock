@@ -1,14 +1,7 @@
 ---
 Name: "About"
 URL: "/about/"
-layout: single
 ---
-
-{{< rawhtml >}}
-<hr>
-{{< /rawhtml >}}
-
-![Brock](/brock4.jpg)
 
 Hailing from the open spaces of West Texas, Bushong started to love music at a very early age. With his parents being educators and gospel singers, he was able to harness an early ear for pleasing melodies and harmonies that would later translate to guitar and piano. After a short engineering phase at Texas Tech University - Bushong found himself writing, arranging and producing his first full album, ***Aurum***, at age 19, in Lubbock, Texas with acclaimed engineer and studio mogul, Scott Farris. 
 

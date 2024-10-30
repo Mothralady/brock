@@ -1,10 +1,9 @@
 ---
-Name: "WELCOME"
+Name: "Welcome"
 URL: "/"
 layout: single
 ---
 
 
 
-![Brock|100x145](/brock06.jpg)
-
+{{< image src="img/brock06.jpg" alt="Brock Bushong" position="center" style="width:75%;" >}}

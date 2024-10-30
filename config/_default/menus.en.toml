@@ -15,38 +15,19 @@
   pageRef = "about"
   weight = 10
 
-[[main]]
-  name = "Albums"
-  pageRef = "albums"
-  weight = 15
-
-[[main]]
-  name = "Shows"
-  pageRef = "shows"
-  weight = 90
-
-[[main]]
-  name = "Merch"
-  url = "/"
-  weight = 100
-
-
-[[main]]
-  identifier = "facebook"
-  pre = "facebook"
-  url = "https://www.facebook.com/brockbushongmusic"
-  weight = 200
+#[[main]]
+#  name = "Albums"
+#  pageRef = "albums"
+#  weight = 15
 
 #[[main]]
-#  identifier = "tiktok"
-#  pre = "tiktok"
-#  weight = 300
-#  url = "https://www.tiktok.com/@brockbushong1?_t=8p4hGZj6J8k"
+#  name = "Shows"
+#  pageRef = "shows"
+#  weight = 90
 
-[[main]]
-  identifier = "spotify"
-  pre = "spotify"
-  url = "https://open.spotify.com/artist/456FhEMFevDKnSmw0klw9G"
-  weight = 400
+#[[main]]
+#  name = "Merch"
+#  url = "/"
+#  weight = 100
 
 
